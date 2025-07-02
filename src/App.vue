@@ -1,11 +1,11 @@
 <script setup lang="ts">
-import Main from "@/view/main/main.vue";
+import Layout from "@/layout/layout.vue";
 
 </script>
 
 <template>
   <main class="container">
-    <Main />
+    <Layout />
   </main>
 </template>
 
